@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta11_ders3", "hafta11_ders3\hafta11_ders3.csproj", "{72582347-5639-4790-AAEC-7514F2FC3218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72582347-5639-4790-AAEC-7514F2FC3218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72582347-5639-4790-AAEC-7514F2FC3218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72582347-5639-4790-AAEC-7514F2FC3218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72582347-5639-4790-AAEC-7514F2FC3218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84F9210-7109-404A-B195-8E90D02F8DFD}
+	EndGlobalSection
+EndGlobal

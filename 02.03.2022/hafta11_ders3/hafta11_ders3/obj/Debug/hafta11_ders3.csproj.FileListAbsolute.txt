@@ -1,0 +1,40 @@
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe.config
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.pdb
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.AssemblyReference.cache
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Form1.resources
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Properties.Resources.resources
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.GenerateResource.cache
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.exe
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.pdb
+C:\Users\Student2\source\repos\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMusteri.resources
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe.config
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.pdb
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.AssemblyReference.cache
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.SuggestedBindingRedirects.cache
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Form1.resources
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMusteri.resources
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Properties.Resources.resources
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.GenerateResource.cache
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.CoreCompileInputs.cache
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.exe
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.pdb
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMisafir.resources
+D:\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.AnaSayfa.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe.config
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.AnaSayfa.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Form1.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMisafir.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMusteri.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Properties.Resources.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.GenerateResource.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.pdb
