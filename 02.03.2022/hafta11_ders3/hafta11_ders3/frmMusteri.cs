@@ -21,21 +21,16 @@ namespace hafta11_ders3
             InitializeComponent();
             if (sayfa == "pnlGetir")
             {
-
                 panelMusteriEkle.Visible = true;
                 panelMusteriSorgula.Visible = false;
                 Goster();
-
             }
             else if (sayfa == "pnlGoster")
             {
-
-
                 panelMusteriEkle.Visible = false;
                 panelMusteriSorgula.Visible = true;
 
                 Goster();
-
             }
 
         }
@@ -68,7 +63,6 @@ namespace hafta11_ders3
                 item.SubItems.Add(dr["MusteriAciklama"].ToString());
                 item.SubItems.Add(dr["MusteriKurumsalOK"].ToString());
                 item.SubItems.Add(dr["DilID"].ToString());
-
 
                  lwMusteriler.Items.Add(item);
             }
@@ -136,19 +130,6 @@ namespace hafta11_ders3
             //cbUlke.SelectedIndex = 0;
             //cbSehir.SelectedIndex = 0;
             //cbIlce.SelectedIndex = 0;
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
 
         private void cbUlke_SelectionChangeCommitted(object sender, EventArgs e)
@@ -179,7 +160,6 @@ namespace hafta11_ders3
 
         private void cbSehir_SelectionChangeCommitted(object sender, EventArgs e)
         {
-
             List<KeyValuePair<int, string>> data = new List<KeyValuePair<int, string>>();
             cbIlce.DataSource = null;
             //ilçeler
@@ -261,7 +241,6 @@ namespace hafta11_ders3
                 cmd = cnn.CreateCommand();
                 cmd.CommandText = "delete from tbl_Musteriler where MusteriID=@MusteriID";
                 
-
                 cmd.Parameters.AddWithValue("@MusteriID", seciliindex);
 
                 cmd.ExecuteNonQuery();
@@ -270,8 +249,6 @@ namespace hafta11_ders3
 
                 lwMusteriler.Items.Remove(eachItem);
             }
-
-
         }
 
         int guncellemeID;
@@ -335,18 +312,11 @@ namespace hafta11_ders3
                 tbAciklama.Text = eachItem.SubItems[15].Text;
                 checkKurumsalBireysel.Checked = Convert.ToBoolean(eachItem.SubItems[16].Text);
                 cbDil.SelectedIndex = Convert.ToInt32(eachItem.SubItems[17].Text);
-
-
-
-
-
-
             }
         }
 
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
-
             cnn.Open();
             //cmd.CommandText = "INSERT INTO tbl_Musteriler (MusteriAd, MusteriSoyad, MusteriTCKimlik, MusteriPasaportNo, MusteriUnvan, MusteriYetkiliAdSoyad, MusteriVergiNo, MusteriVergiDairesi, MusteriTelefon, MusteriPosta,MusteriAdres, IlID, IlceID, UlkeID, MusteriAciklama, MusteriKurumsalOK, DilID) VALUES (@MusteriAd, @MusteriSoyad, @MusteriTCKimlik, @MusteriPasaportNo, @MusteriUnvan, @MusteriYetkiliAdSoyad, @MusteriVergiNo, @MusteriVergiDairesi, @MusteriTelefon,@MusteriPosta,              @MusteriAdres, @IlID, @IlceID, @UlkeID, @MusteriAciklama, @MusteriKurumsalOK, @DilID)";
             cmd = cnn.CreateCommand();

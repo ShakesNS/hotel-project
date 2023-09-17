@@ -38,3 +38,17 @@ D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_der
 D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.CoreCompileInputs.cache
 D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.exe
 D:\enes\dersler\işkur\işkur kurs\hafta_11\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.pdb
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe.config
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.exe
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\bin\Debug\hafta11_ders3.pdb
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.AssemblyReference.cache
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.SuggestedBindingRedirects.cache
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.AnaSayfa.resources
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Form1.resources
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMisafir.resources
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.frmMusteri.resources
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.Properties.Resources.resources
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.GenerateResource.cache
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.csproj.CoreCompileInputs.cache
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.exe
+C:\Users\menes\source\repos\hotel-project\hotel\02.03.2022\hafta11_ders3\hafta11_ders3\obj\Debug\hafta11_ders3.pdb

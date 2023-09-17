@@ -24,13 +24,16 @@ namespace hafta11_ders3
         {
             frm.MdiParent = this;
             frm.FormBorderStyle = FormBorderStyle.None;
+            #region Draft
             //panelAna.Controls.Add(frm);
             //panelAna.Size = frm.Size;
+            #endregion
             frm.Show();
         }
 
         public void FrmSil(Form form)
         {
+            #region Draft
             //panelAna.Controls.Remove(frm);
 
             //List<Form> openForms = new List<Form>();
@@ -56,8 +59,7 @@ namespace hafta11_ders3
             //        form.Close();
 
             //}
-
-
+            #endregion
             foreach (Form frm in this.MdiChildren)
             {
                 if (frm != form)
@@ -66,31 +68,25 @@ namespace hafta11_ders3
                     frm.Close();
                 }
             }
-
         }
-
-
-
 
         private void müşteriEklemeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmMusteri = new frmMusteri("pnlGetir");
             FrmSil(frmMusteri);
-            FrmGetir(frmMusteri);
-            
-
+            FrmGetir(frmMusteri);          
         }
 
         private void müşteriSorgulamaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmMusteri = new frmMusteri("pnlGoster");
             FrmSil(frmMusteri);
-            FrmGetir(frmMusteri);
-            
+            FrmGetir(frmMusteri);    
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            #region Draft
             //panelAna.AutoScroll = false;
             //panelAna.HorizontalScroll.Enabled = true;
             //panelAna.HorizontalScroll.Visible = true;
@@ -102,6 +98,7 @@ namespace hafta11_ders3
 
             //panelAna.Height=this.Height;
             //panelAna.Width=this.Width;
+            #endregion
         }
 
         private void geriGitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -114,18 +111,14 @@ namespace hafta11_ders3
         {
             frmMisafir = new frmMisafir("pnlGetir");
             FrmSil(frmMisafir);
-            FrmGetir(frmMisafir);
-            
-
-
+            FrmGetir(frmMisafir);          
         }
 
         private void misafirSorgulamaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmMisafir = new frmMisafir("pnlGoster");
             FrmSil(frmMisafir);
-            FrmGetir(frmMisafir);
-            
+            FrmGetir(frmMisafir);          
         }
     }
 }

@@ -13,7 +13,6 @@ namespace hafta11_ders3
 {
     public partial class frmMisafir : Form
     {
-
         SqlConnection cnn = new SqlConnection("Data Source=Z36-08\\SQLEXPRESS;Initial Catalog=DB_Bilgi_Hotel;Integrated Security=True");
         SqlDataReader dr;
         SqlCommand cmd;
@@ -27,25 +26,18 @@ namespace hafta11_ders3
             InitializeComponent();
             if (sayfa == "pnlGetir")
             {
-
                 panelMisafirEkle.Visible = true;
                 panelMisafirSorgula.Visible = false;
                 Goster();
-
             }
             else if (sayfa == "pnlGoster")
             {
-
-
                 panelMisafirEkle.Visible = false;
                 panelMisafirSorgula.Visible = true;
 
                 Goster();
-
             }
-
         }
-
 
         public void Goster()
         {
@@ -74,7 +66,6 @@ namespace hafta11_ders3
                 item.SubItems.Add(dr["MisafirAciklama"].ToString());
                 item.SubItems.Add(dr["MisafirHesKod"].ToString());
                 item.SubItems.Add(dr["DilID"].ToString());
-
 
                 lwMisafirler.Items.Add(item);
             }
@@ -238,7 +229,6 @@ namespace hafta11_ders3
             cmd.Parameters.AddWithValue("@MisafirHesKod", tbMisafirHesKod.Text);
             cmd.Parameters.AddWithValue("@dilId",  cbDil.SelectedIndex);
 
-
             cmd.ExecuteNonQuery();
             cnn.Close();
             Goster();
@@ -354,14 +344,6 @@ namespace hafta11_ders3
                 }
                 cnn.Close();
                 cbIlce.SelectedIndex = Convert.ToInt32(eachItem.SubItems[12].Text);
-
-
-
-
-
-
-
-
             }
         }
     }
